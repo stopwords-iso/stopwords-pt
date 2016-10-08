@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-pt",
+  "description": "The most comprehensive collection of stopwords for the portuguese language.",
+  "keywords": [
+    "portuguese",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-pt",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-pt.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
